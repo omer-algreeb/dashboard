@@ -1,0 +1,2 @@
+module DashboaresHelper
+end
